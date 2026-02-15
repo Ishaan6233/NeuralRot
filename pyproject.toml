@@ -1,0 +1,9 @@
+[project]
+name = "neuralrot"
+version = "0.1.0"
+description = "NeuralRot Flask backend"
+requires-python = ">=3.10"
+
+[tool.vercel]
+app = "app:app"
+
